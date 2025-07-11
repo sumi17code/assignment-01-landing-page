@@ -63,7 +63,7 @@
     font-style: normal;
     font-weight: Bold 700;
     font-size: 65px;
-    color: 252432;
+    color: #252432;
     
 }
  .stay{
@@ -150,6 +150,61 @@
    
 }
 
+
+/* here productive user section styles  */
+
+.productive-section{
+    background-color: #f4f4f9;
+   
+    margin: 116px 159px 137px 141px;
+   
+    
+    border-radius: 24px;
+}
+
+.productive{
+    padding: 50px 80px 50px 80px;
+}
+
+
+.centered-title{
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: Bold 700;
+    font-size: 38px;
+    
+    
+    
+}
+
+.data-subtitle{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 40px;
+    padding: 0px 142px 50px 142px;
+}
+
+.data h1{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: blue;
+    font-size: 80px;
+}
+
+.data p{
+    text-align: center;
+    color: #252432;
+    opacity: 50%;
+    line-height: auto;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+
+}
 
 
 
