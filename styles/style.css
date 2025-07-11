@@ -383,14 +383,15 @@
     color: #8987A1;
     opacity: 100%;
     text-align: center;
-    padding: 8px 120px 0px 120px;
+    margin-top:0px;
+    padding: 0px 1px 10px 60px;
 }
 
 .link ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 65px 0px 65px;
+    padding: 20px 65px 0px 105px;
     
 }
 
