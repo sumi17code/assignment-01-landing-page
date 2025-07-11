@@ -287,14 +287,40 @@
     text-align: center;
 } */
 
+
+.footer-container{
+    margin-top: 14px;
+}
+
+.footer{
+    margin: 104px 455px 103px 454px;
+}
 .logo-footer{
     text-align: center;
+}
+
+.logo-footer h1{
+    padding: 0px 120px 8px 120px;
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: Black 900;
+    color: blue;
+    font-size: 100px;
+
+}
+
+.logo-footer p{
+    color: #8987A1;
+    opacity: 100%;
+    text-align: center;
+    padding: 8px 120px 0px 120px;
 }
 
 .link ul {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    padding: 20px 65px 0px 65px;
     
 }
 
@@ -304,4 +330,6 @@
 
 .link li a{
     text-decoration: none;
+    color: #8987A1;
+    opacity: 100%;
 }
