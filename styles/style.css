@@ -231,6 +231,23 @@
 
 }
 
+/* here feedback section start  */
+
+.feedback-section{
+    margin: 137px 149px 137px 151px;
+}
+
+.feedback-title{
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: Bold 700;
+    color: #252431;
+    font-size: 42px;
+}
+
+
+
 /* here touch section styles start  */
 
 .touch{
