@@ -45,7 +45,17 @@
     padding: 12px 36px 12px 36px;
     border-radius: 10px;
     border: none;
+    cursor: pointer;
+    transition: all 0.3s ease;
 }
+
+.nav-button:hover {
+    background-color: #0c567a;
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+
 
 /* nav styles end */
 
@@ -80,6 +90,14 @@
     border: none;
     padding: 12px 36px 12px 36px;
     border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.banner-btn:hover {
+    background-color: #0c567a;
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 /* banner styles end  */
@@ -140,6 +158,14 @@
     border: none;
     padding: 12px 36px 12px 36px;
     border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.action-btn:hover {
+    background-color: #0c567a;
+    transform: scale(1.05);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .action-img img{
