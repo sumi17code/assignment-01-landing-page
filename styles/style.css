@@ -246,6 +246,57 @@
     font-size: 42px;
 }
 
+.icon-star{
+    margin-top: 24px;
+}
+
+.feedback{
+    padding: 24px;
+}
+
+.feedback h4{
+    margin-top: 24px;
+    color: #1E1E1E;
+    font-size: 20px;
+}
+
+.feedback p{
+    margin-top: 24px;
+    color: #1E1E1E;
+    opacity: 80%;
+}
+
+.feedback-subtitle{
+    display: flex;
+    gap: 20px;
+}
+
+.title-img{
+    display:flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.title-img img{
+    border-radius: 50%;
+    height: 45px;
+}
+
+.reviwer {
+    line-height: 1px;
+}
+
+.reviwer h5{
+    color: #757575;
+    opacity: 100%;
+    font-size: 20px;
+} 
+
+.reviwer p{
+    color: #B3B3B3;
+    opacity: 100%;
+}
+
 
 
 /* here touch section styles start  */
