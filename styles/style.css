@@ -283,3 +283,25 @@
 
 /* here footer section styles  */
 
+/* .footer-container{
+    text-align: center;
+} */
+
+.logo-footer{
+    text-align: center;
+}
+
+.link ul {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.link ul li{
+    list-style: none;
+}
+
+.link li a{
+    text-decoration: none;
+}
