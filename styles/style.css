@@ -1,0 +1,81 @@
+
+
+/* here header section css */
+
+/* navbar styles start*/
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+#header-container{
+    background-image: url('Header-bg.png');
+    background-size: cover;
+    gap: 158px;
+    
+}
+
+
+
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+    padding: 0px 50px;
+    
+}
+
+.logo{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-weight: Black 900;
+    color: blue;
+    font-size: 34px;
+}
+
+.nav-button{
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: Bold 700;
+    font-size: 16px;
+    color: #ffffff;
+    background-color: #4E47FF;
+    padding: 12px 36px 12px 36px;
+    border-radius: 10px;
+    border: none;
+}
+
+/* nav styles end */
+
+/* banner styles start  */
+
+.banner{
+  text-align: center;
+  margin-top: 158px;
+  padding: 0px;
+  
+}
+
+.banner-title{
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: Bold 700;
+    font-size: 65px;
+    color: 252432;
+    
+}
+ .stay{
+    padding-bottom: 200px;
+    margin-top: 37px;
+ }
+.banner-btn{
+    font-family: "Raleway", sans-serif;
+    font-style: normal;
+    font-weight: Bold 700;
+    font-size: 16px;
+    color:#ffffff;
+    background-color: #4E47FF;
+    border: none;
+    padding: 12px 36px 12px 36px;
+    border-radius: 10px;
+}
